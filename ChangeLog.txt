@@ -1,18 +1,24 @@
 Added:
-GUI
-AutoChange log
-Menu rename
+Stutter all
+Stutter gun
+Stutter on your touch
+Stutter on others touch
+Lag all 
+Lag gun
+Lag on your touch
+Lag on others touch
+
+Break ghost lab doors
+
+Antireport [stutter]
+Antireport [lag]
 
 Removed:
-All abusive mods [patched] (not ban protection)
-AntiReport crash [patched]
+nothing
 
 Changed:
-Azure to Vanta
+nothing
 
 Working on:
-Fix for Some/all of the abusive mods including
-Lag
-Stutter
-Freeze 
-And crash
+Making Stutter /|/ Lag mods more powerful
+Crash mods
