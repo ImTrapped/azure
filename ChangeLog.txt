@@ -1,3 +1,4 @@
+===========================
 Added:
 Stutter all
 Stutter gun
@@ -8,17 +9,18 @@ Lag gun
 Lag on your touch
 Lag on others touch
 
-Break ghost lab doors
-
 Antireport [stutter]
 Antireport [lag]
 
+Break ghost lab doors
+===========================
 Removed:
 nothing
-
+===========================
 Changed:
 nothing
-
+===========================
 Working on:
 Making Stutter /|/ Lag mods more powerful
 Crash mods
+===========================
