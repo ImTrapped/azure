@@ -1,26 +1,18 @@
 ===========================
 Added:
-Stutter all
-Stutter gun
-Stutter on your touch
-Stutter on others touch
-Lag all 
-Lag gun
-Lag on your touch
-Lag on others touch
-
-Antireport [stutter]
-Antireport [lag]
-
-Break ghost lab doors
+Break server 
 ===========================
 Removed:
 nothing
 ===========================
 Changed:
-nothing
+Antireport [stutter] (should work)
+Antireport [lag] (should work)
+Fixed abusive mods being detected(?)
+
+Lag when opening the menu
+
 ===========================
 Working on:
-Making Stutter /|/ Lag mods more powerful
-Crash mods
+nothing
 ===========================
