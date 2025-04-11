@@ -12,6 +12,7 @@ Fixed abusive mods being detected(?)
 
 Lag when opening the menu
 
+Fixed anticrash (?)
 ===========================
 Working on:
 nothing
