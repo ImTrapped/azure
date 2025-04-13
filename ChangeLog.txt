@@ -1,18 +1,23 @@
 ===========================
 Added:
-Break server 
+Lag Spike all
+Lag Spike gun
+Lag Spike on your touch 
+Lag Spike on others touch 
+
+Hard Lag Spike all
+Hard Lag Spike gun
+Hard Lag Spike on your touch 
+Hard Lag Spike on others touch 
+
+Anti Report [hard lag spike]
+Anti Report [lag spike]
 ===========================
 Removed:
 nothing
 ===========================
 Changed:
-Antireport [stutter] (should work)
-Antireport [lag] (should work)
-Fixed abusive mods being detected(?)
-
-Lag when opening the menu
-
-Fixed anticrash (?)
+Fixed anticrash (?) (again)
 ===========================
 Working on:
 nothing
